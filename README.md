@@ -1,6 +1,6 @@
 # ¡Hola! Soy Marianete
 
-![](https://avatars.githubusercontent.com/u/161629775?s=400&u=1732d69c968b117fc4ce1bdc65e441d79fea7839&v=4)
+![](https://github.com/Marianete/Marianete/blob/main/20250610_135055.jpg)
 
 Bienvenida/o a mi perfil de GitHub. Soy estudiante apasionado por la programación y las nuevas tecnologías. En este espacio comparto mis proyectos y aprendizajes escolares.
 
