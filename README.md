@@ -1,37 +1,44 @@
-# ¡Hola! Soy Marianete
+# ¡Hola! Soy Marianete 👋
 
-![]()
+![Banner o foto de perfil](https://via.placeholder.com/800x200.png?text=Bienvenido+a+mi+perfil)
 
-Bienvenida/o a mi perfil de GitHub. Soy estudiante en ProA Deán Funes, apasionado por la programación y las nuevas tecnologías. En este espacio comparto mis proyectos y aprendizajes en el espacio curricular de Programacion 3.
+Bienvenido/a a mi perfil de GitHub. Soy estudiante en **ProA Deán Funes**, apasionado por la programación y las nuevas tecnologías. En este espacio comparto mis proyectos y aprendizajes en el espacio curricular de **Programación 3**.
 
 ---
 
 ## Mis proyectos destacados
 
-A continuación, algunos de los repositorios que he creado:
+Estos son algunos de los repositorios en los que he estado trabajando:
 
-- **[teoria](https://github.com/Marianete/teoria)**: Repositorio dedicado a la teoría sobre diversos temas, incluyendo Inteligencia Artificial y Machine Learning. Contiene documentación y recursos para profundizar en estos campos.
-
-- **[seaborn](https://github.com/Marianete/seaborn)**: Proyecto que explora la visualización de datos utilizando la librería Seaborn en Python. Incluye ejemplos prácticos y ejercicios para aprender a crear gráficos efectivos.
-
-- **[ejercicios](https://github.com/Marianete/ejercicios)**: Colección de ejercicios prácticos en Python para reforzar conceptos y mejorar habilidades de programación.
-
-- **[markdown](https://github.com/Marianete/markdown)**: Guía de sintaxis Markdown, ideal para aprender a formatear texto de manera sencilla y efectiva.
+| Proyecto | Descripción |
+|----------|-------------|
+| **[teoria](https://github.com/Marianete/teoria)**  | Documentación sobre Inteligencia Artificial y Machine Learning con recursos para profundizar en estos campos |
+| **[seaborn](https://github.com/Marianete/seaborn)**  | Visualización de datos con la librería Seaborn en Python, incluyendo ejemplos prácticos |
+| **[ejercicios](https://github.com/Marianete/ejercicios)**  | Colección de ejercicios prácticos en Python para mejorar habilidades de programación |
+| **[markdown](https://github.com/Marianete/markdown)**  | Guía completa de sintaxis Markdown para formatear texto efectivamente |
 
 ---
 
 ## Tecnologías que utilizo
 
-- Python
-- Visual Studio Code
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## ¡Conectemos!
 
-Si deseas colaborar, aprender juntos; no dudes en contactarme:
-- Correo: mvcasal@escuelasproa.edu.ar
+Si deseas colaborar o aprender juntos, no dudes en contactarme:
+
+ **Correo:** [mvcasal@escuelasproa.edu.ar](mailto:mvcasal@escuelasproa.edu.ar)  
+ **GitHub:** [github.com/Marianete](https://github.com/Marianete)
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí.  
+**¡Sigamos aprendiendo y creciendo juntos en el mundo de la programación!** 🚀
+
+[![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Marianete.Marianete)](https://github.com/Marianete)
+
+*"El único modo de hacer un gran trabajo es amar lo que haces"* - Steve Jobs
