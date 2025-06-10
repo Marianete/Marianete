@@ -2,7 +2,7 @@
 
 ![]()
 
-Bienvenida/o a mi perfil de GitHub. Soy estudiante apasionado por la programación y las nuevas tecnologías. En este espacio comparto mis proyectos y aprendizajes escolares.
+Bienvenida/o a mi perfil de GitHub. Soy estudiante en ProA Deán Funes, apasionado por la programación y las nuevas tecnologías. En este espacio comparto mis proyectos y aprendizajes en el espacio curricular de Programacion 3.
 
 ---
 
