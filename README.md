@@ -1,4 +1,4 @@
-# 👩‍💻 ¡Hola! Soy Marianete
+# ¡Hola! Soy Marianete
 
 ![](https://avatars.githubusercontent.com/u/161629775?s=400&u=1732d69c968b117fc4ce1bdc65e441d79fea7839&v=4)
 
@@ -6,7 +6,7 @@ Bienvenida/o a mi perfil de GitHub. Soy estudiante apasionado por la programaci�
 
 ---
 
-## 🧰 Mis proyectos destacados
+## Mis proyectos destacados
 
 A continuación, algunos de los repositorios que he creado:
 
@@ -20,14 +20,14 @@ A continuación, algunos de los repositorios que he creado:
 
 ---
 
-## 🛠️ Tecnologías que utilizo
+## Tecnologías que utilizo
 
 - Python
 - Visual Studio Code
 
 ---
 
-## 📬 ¡Conectemos!
+## ¡Conectemos!
 
 Si deseas colaborar, aprender juntos; no dudes en contactarme:
 - Correo: mvcasal@escuelasproa.edu.ar
