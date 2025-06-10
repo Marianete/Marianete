@@ -1,6 +1,6 @@
 # ¡Hola! Soy Marianete 👋
 
-![Banner o foto de perfil](https://via.placeholder.com/800x200.png?text=Bienvenido+a+mi+perfil)
+![](https://github.com/Marianete/Marianete/blob/main/ChatGPT%20Image%2010%20jun%202025%2C%2013_40_36%20(1).png)
 
 Bienvenido/a a mi perfil de GitHub. Soy estudiante en **ProA Deán Funes**, apasionado por la programación y las nuevas tecnologías. En este espacio comparto mis proyectos y aprendizajes en el espacio curricular de **Programación 3**.
 
