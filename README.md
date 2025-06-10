@@ -1,8 +1,8 @@
 # 👩‍💻 ¡Hola! Soy Marianete
 
-![Imagen de portada](URL_DE_TU_IMAGEN_DE_PORTADA)
+![](https://avatars.githubusercontent.com/u/161629775?s=400&u=1732d69c968b117fc4ce1bdc65e441d79fea7839&v=4)
 
-Bienvenida/o a mi perfil de GitHub. Soy desarrolladora apasionada por la programación y la tecnología. En este espacio comparto mis proyectos, aprendizajes y contribuciones al mundo del código abierto.
+Bienvenida/o a mi perfil de GitHub. Soy estudiante apasionado por la programación y las nuevas tecnologías. En este espacio comparto mis proyectos y aprendizajes escolares.
 
 ---
 
@@ -10,37 +10,27 @@ Bienvenida/o a mi perfil de GitHub. Soy desarrolladora apasionada por la program
 
 A continuación, algunos de los repositorios que he creado:
 
-- **[prueba-01](https://github.com/Marianete/prueba-01)**: Un proyecto de prueba en Python.
-- **[diagnostico](https://github.com/Marianete/diagnostico)**: Herramienta para diagnóstico en Python.
-- **[Diagnostico1](https://github.com/Marianete/Diagnostico1)**: Versión mejorada del proyecto anterior.
-- **[repaso](https://github.com/Marianete/repaso)**: Revisión de conceptos en Python.
-- **[markdown](https://github.com/Marianete/markdown)**: Guía de sintaxis Markdown.
-- **[teoria](https://github.com/Marianete/teoria)**: Repositorio de teoría sobre diversos temas.
+- **[teoria](https://github.com/Marianete/teoria)**: Repositorio dedicado a la teoría sobre diversos temas, incluyendo Inteligencia Artificial y Machine Learning. Contiene documentación y recursos para profundizar en estos campos.
+
+- **[seaborn](https://github.com/Marianete/seaborn)**: Proyecto que explora la visualización de datos utilizando la librería Seaborn en Python. Incluye ejemplos prácticos y ejercicios para aprender a crear gráficos efectivos.
+
+- **[ejercicios](https://github.com/Marianete/ejercicios)**: Colección de ejercicios prácticos en Python para reforzar conceptos y mejorar habilidades de programación.
+
+- **[markdown](https://github.com/Marianete/markdown)**: Guía de sintaxis Markdown, ideal para aprender a formatear texto de manera sencilla y efectiva.
 
 ---
 
 ## 🛠️ Tecnologías que utilizo
 
 - Python
-- Markdown
-- Git & GitHub
-
----
-
-## 📸 Mis proyectos en acción
-
-![Imagen de proyecto 1](URL_DE_IMAGEN_DEL_PROYECTO_1)
-![Imagen de proyecto 2](URL_DE_IMAGEN_DEL_PROYECTO_2)
+- Visual Studio Code
 
 ---
 
 ## 📬 ¡Conectemos!
 
-Si deseas colaborar, aprender juntos o simplemente charlar sobre tecnología, no dudes en contactarme:
-
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- [Twitter](https://twitter.com/tu_usuario)
-- Correo: tu.email@example.com
+Si deseas colaborar, aprender juntos; no dudes en contactarme:
+- Correo: mvcasal@escuelasproa.edu.ar
 
 ---
 
